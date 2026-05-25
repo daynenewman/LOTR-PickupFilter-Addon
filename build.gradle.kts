@@ -16,4 +16,4 @@ tasks.named<Jar>("jar") {
     archiveBaseName.set("LOTR-PickupFilter-Addon")
 }
 
-extra["modVersion"] = "dev-local"
+extra["modVersion"] = "1.0.0"
