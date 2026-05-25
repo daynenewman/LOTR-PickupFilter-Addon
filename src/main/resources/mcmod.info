@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "lotrpickupfilter",
+    "name": "LOTR Pickup Filter",
+    "version": "1.0.0",
+    "authorList": ["Dayne"],
+    "description": "Adds a personal pickup filter configured from the inventory screen.",
+    "dependencies": ["required-after:lotr"]
+  }
+]
